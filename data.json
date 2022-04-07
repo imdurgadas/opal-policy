@@ -10,8 +10,8 @@
     "bob": {
       "roles": ["employee", "billing"],
       "location": {
-        "country": "US",
-        "ip": "8.8.8.8"
+        "country": "IN",
+        "ip": "23.23.238.12"
       }
     },
     "eve": {
